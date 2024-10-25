@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1623435880 source:c:\users\sindhura\onedrive\documents\plasma donation\main.c
+	<stdio.h>
+	<conio.h>
+
+1623497759 source:c:\users\sindhura\onedrive\documents\plasma donation\1.c
+	<stdio.h>
+	<string.h>
+
+1623497759 source:c:\users\sindhura\onedrive\documents\plasma donation\3.c
+	"stdio.h"
+	"conio.h"
+	<string.h>
+	<dos.h>
+
+1623926619 source:c:\users\sindhura\onedrive\documents\plasma donation\4.c
+	<stdio.h>
+	<string.h>
+
